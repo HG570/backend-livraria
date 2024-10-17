@@ -1,1 +1,1 @@
-# backend-livraria
+# Aplicação Back-End de Livraria realizada em atividade do Professor Mário na Fatec Cotia.
